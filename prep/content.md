@@ -78,6 +78,6 @@ As we know, during partial suspensions, an entire portion of a branch gets hit w
    
 * Now, let's say this happens somewhere where there is no abandoned side track, such as [6 Av-Bryant Park](https://lh3.google.com/u/0/d/13KTBua2Nn7O26vSUyR9XEAoDIsVN7svD=w1920-h946-iv1?auditContext=prefetch) heading northbound just past Herald Square. An NYPD investigation is being conducted on the northbound track south of 42 St-Bryant Park.
   * ACBTC would immediately utilize the disused track switches north of 34 St to wrong rail trains to the southbound express track, pushing them through and back via the following switch, holding trains briefly at Bryant Park to allow for this to happen.
-    * If this system were to become overwhelmed, trains would instead route via the local track, switching back to the express when necessary.
+    * If this system were to become overwhelmed, trains would instead route via the local track, rather than switching back to the express for Bryant Park, only switching back to the express when necessary. This would reduce the strain put in that particular section, lowering switch wear.
    
 ACBTC would be an extremely efficient, streamlined automated system designed to keep the system moving, even in situations where disruptions happen. I have further plans for expansion of capabilities of this technology, though this functionality is the primary purpose.
