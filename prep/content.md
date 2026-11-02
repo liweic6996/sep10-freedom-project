@@ -80,4 +80,10 @@ As we know, during partial suspensions, an entire portion of a branch gets hit w
   * ACBTC would immediately utilize the disused track switches north of 34 St to wrong rail trains to the southbound express track, pushing them through and back via the following switch, holding trains briefly at Bryant Park to allow for this to happen.
     * If this system were to become overwhelmed, trains would instead route via the local track, rather than switching back to the express for Bryant Park, only switching back to the express when necessary. This would reduce the strain put in that particular section, lowering switch wear.
    
+Another primary issue is navigational signage. Because most rolling stock databases are fixed and do not allow manual setup, they are confined to existing programs. Therefore, in the event of a reroute, there may be no program that displays the temporary service pattern being taken, leading to mass confusion from passengers onboard.
+
+  * My solution to this problem would be to allow manual modifications of the program from the conductor's position, enabled by employee identification numbers, to provide accurate information even during an unprecedented service disruption.
+    * To combat unruly passengers breaching the cab to exploit this system and use it against itself to cause confusion (which is an actual problem), this feature would be disabled behind an employee identification number lock. Therefore, even if an employee gives out their identification badge, the unauthorized entry would easily be traced back to said employee.
+      * The goal of this new software addition would be to notify passengers visually of a change in route, especially as the sound via the passenger announcement system can often be drained out by degraded speakers or noisy background.
+   
 ACBTC would be an extremely efficient, streamlined automated system designed to keep the system moving, even in situations where disruptions happen. I have further plans for expansion of capabilities of this technology, though this functionality is the primary purpose.
