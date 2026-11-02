@@ -31,7 +31,9 @@ Note in this situation, `_ud` means user-defined, customized data paths built fo
    * This system combined runs dynamic braking zones, which creates a safety net for trains (or a moving block) to space out operational equipment evenly.
      * This also works to prevent collisions by automatically applying the brakes of the following train if the train ahead is slowing down or is not moving, leading to a distance loss.
    * In addition, this system operates trains via ATO (Automated Train Operation), handling the movement of the train on its own, which increases efficiency and reduces operational mistakes.
-     * Human presence is still required in the cab to start the train, operate the doors, and manually apply the brakes in the event of an emergency. 
+     * Human presence is still required in the cab to start the train, operate the doors, and manually apply the brakes in the event of an emergency.
+    
+To Note: The NYCS / NYCTA's CBTC is likely proprietary software, allowing for more flexible expansions via contractors
 
 ##### Hardware
 ###### Station Features
@@ -60,7 +62,7 @@ Countdown Clocks are crucial hardware infrastructure within the New York City Su
 * Accessibility
   * Legacy arrival software displayed only the terminal, making it redundant for passengers towards the end of the route.
     * Fisher-Cox's newer design cycles indicate the precise direction and destination of every train, allowing commuters to determine which train is theirs with more precision.
- * Alerts
+* Alerts
   * Legacy software completely blocked out all arrivals to cycle an extremely slow, often redundant alert twice, causing passengers to miss their train. In addition, this software did not display alternatives for passengers during scheduled service disruptions.
     * Fisher-Cox's newer design pairs the service alert on the bottom, with arrivals on the top to enable dynamic flow without having to wait for a service alert to cycle through. In addition, this newer design also introduced alternative directions onto countdown clocks positioned on platforms where service is temporarily unavailable.
    
