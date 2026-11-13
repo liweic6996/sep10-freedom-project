@@ -6,7 +6,7 @@ Topic: **Public Transportation**
   * For as long as the system has existed, our public transit networks have suffered from chronic delays, miscommunications, service disruptions, confusion, and incidents. This issue is one of the most enduring New York City has ever seen, and yet despite our efforts, it continues to persist. We must act to push back against this.
 
 ## Part A: existing technology
-
+This page runs from most complex to least complex. These labels are omitted to maximize page efficiency.
 ##### Software
 * Communications-Based Train Control (CBTC)
   * The Communications-Based Train Control (CBTC) system is a combined software-hardware operating assistant that serves as what is essentially a digitized air traffic control system for trains. This system, designed to replace 1930s-era signalling technology helps reduce collisions, runs more frequent service, and operates trains autonomously.
