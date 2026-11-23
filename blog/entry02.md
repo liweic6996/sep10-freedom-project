@@ -18,6 +18,9 @@ Since my last blog entry, I have oriented directly to using official transit-rel
 
 In addition, I have also been learning more skills in Software Engineering for potential use in future visuals & designs. I have been learning further about CSS visual design in HTML language, as well as the fundamentals of AVD [Applied Visual Design], which is a crucial complimenting addition towards CSS skill. By learning about how to adapt modern design for a proper feel on webpages, I may be able to apply this skill to future proposals & software that may work towards my propositions. While the above two would be purely cosmetic, they would make navigating software much easier, therefore being an important aspect in design to maximize efficiency. 
 
+## Next Steps
+Now that I have done proper research and am digging deeper into new skills, I am looking forward to begin visualizing full proposals with accuracy that may benefit our city's movement and heartbeat in the future!
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
